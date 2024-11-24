@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background: #020202;
+  cursor: crosshair;
+}
+canvas{display:block}
+h1 {
+  position: absolute;
+  top: 37%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: roboto;
+  font-size: 5em;
+  font-weight: 900;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+canvas{display:block}
+h3 {
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: roboto;
+  font-size: 2em;
+  font-weight: 900;
+  -webkit-user-select: none;
+  user-select: none;
+  opacity: 0.4;
+}
